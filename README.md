@@ -1,5 +1,5 @@
 # hello-world
-Learning respository
+This is my learning respository
 
 Hi everybody!
 
